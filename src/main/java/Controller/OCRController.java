@@ -27,8 +27,8 @@ import static java.lang.Thread.sleep;
 public class OCRController {
 
     //百度API_key 和 Secret_key
-    private static final String OCR_API_Key  = "6qXwBY9pgt5Q246p3u6FM61h";
-    private static final String OCR_Secret_Key = "Bdq9SHeEvrRTAiSuv2FGvtmB8RM0slgA";
+    private static final String OCR_API_Key  = "xxxxxxxxxxxxxxxxxxxxxxxx";
+    private static final String OCR_Secret_Key = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
 
     //不同识别精度url
     private static final String other_Host = "https://aip.baidubce.com/rest/2.0/ocr/v1/general";
